@@ -1,0 +1,50 @@
+.text-center{
+    text-align: center;
+}
+div.text-center{
+    margin-top: 6px;
+    margin-left: 36%;
+}
+h4.text-center {
+    background-color: black;
+    color: white;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    font-size: 25px;
+    color: rgb(3, 196, 3);
+    
+}
+h4.signin{
+    background-color: black;
+    color: green;
+    padding: 8px;
+    
+}
+.example-container{
+  
+    position: relative;
+    width: 46%;
+    height: 90%;
+    text-align: center;
+    border: 2px solid green;
+}
+.form{
+    padding: 20px;
+}
+.d-flex-center{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+.mat-form-field{
+    width: 100%;
+}
+
+.mt-top{
+   
+    margin-top: 40px;
+  
+}
+.mt-top-2{
+    margin-top: 10px;
+}

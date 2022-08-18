@@ -1,0 +1,51 @@
+
+div.mainpic img{
+    position: relative;
+    width:74.9%;
+    height: 10%;
+    float: left;
+   
+    padding: 2px 3px 3px 2px;
+}
+.nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 7px 20px 7px 20px;
+    font-weight: 500;
+}
+
+.nav a{
+    text-decoration: none;
+    color:white;   
+}
+
+.nav li:hover{
+    text-decoration: none;
+    color: black;
+    background-color: #8BC34A;
+}
+.nav a:hover{
+    color: black;
+}
+
+.nav ul{
+     background-color: #202020;
+     clear: both;
+}
+
+
+
+.overview{
+    position: absolute;
+    padding-top: 100px;
+    left: 30%;
+    font-weight: 800;
+    
+}
+.overview p{
+    font-size: 2em;
+    font-family: Segoe Print;
+}
+
+
+

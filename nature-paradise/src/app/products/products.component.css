@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+    width: 24%;
+    padding: 2px;
+    text-align: center;
+}
+p{
+    color: blue;
+}
+
+.row::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.pro{
+      width: 150px;
+      padding: 0;
+}
+.card-group{
+    display: flex;
+    margin-left: 5%;
+    background-color: red;
+}

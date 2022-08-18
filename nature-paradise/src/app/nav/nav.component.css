@@ -1,0 +1,26 @@
+.nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 7px 20px 7px 20px;
+    font-weight: 500;
+}
+
+.nav a{
+    text-decoration: none;
+    color:white;   
+}
+
+.nav li:hover{
+    text-decoration: none;
+    color: black;
+    background-color: #8BC34A;
+}
+.nav a:hover{
+    color: black;
+}
+
+.nav ul{
+     background-color: #202020;
+     clear: both;
+}
+

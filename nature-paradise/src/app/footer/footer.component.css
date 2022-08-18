@@ -1,4 +1,6 @@
-
+footer{
+    padding: 0;
+}
 div.copyright{
     width: 100%;
     background-color:black;
